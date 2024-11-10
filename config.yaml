@@ -1,0 +1,7 @@
+# Path to reference genomes
+genome_human: "/shared/space2/molina/Data/CellRanger/refdata-gex-GRCh38-2020-A"
+genome_mouse: "/shared/space2/molina/Data/CellRanger/refdata-gex-mm10-2020-A"
+
+# Cell cycle GO annotations
+cellcycleGO_mouse: "/shared/space2/molina/nariya/DeepCycle/go_annotation/GO_cell_cycle_annotation_mouse.txt"
+cellcycleGO_human: "/shared/space2/molina/nariya/DeepCycle/go_annotation/GO_cell_cycle_annotation_human.txt"
