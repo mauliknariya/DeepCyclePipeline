@@ -10,5 +10,6 @@ scVelo
     |
 DeepCycle
 ```
-**Note**: You must have these tools installed in separate conda environments
+**Note**: You must have these tools installed in separate conda environments.
+
 The pipeline was prototyped on Snakemake version 8.5.0
