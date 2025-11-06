@@ -1,6 +1,6 @@
 # Snakemake pipeline for running DeepCycle on single-cell RNA-seq data
 
-The pipeline executes the following tolls on a given dataset:
+The pipeline executes the following tools on a given dataset:
 ```
 cellranger
     |
