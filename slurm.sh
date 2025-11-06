@@ -10,5 +10,5 @@
 eval "$(conda shell.bash hook)"
 conda activate snakemake8
 touch config.yaml
-snakemake --nolock --cores 8 --snakefile rnavelo.smk --configfile config.yaml --rerun-incomplete \
+snakemake --nolock --cores 8 --snakefile deepcycle_pipeline.smk --configfile config.yaml --rerun-incomplete \
           --until /shared/space2/molina/Data/hiPSCs_timecourse_scrna/QCKG5/deepcycle
